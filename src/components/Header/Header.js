@@ -7,12 +7,17 @@ import { faPinterestP } from '@fortawesome/free-brands-svg-icons';
 import './Header.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import logo from './../../logo.png'
-import bgimage from '../../images/abstract1.jpg';
+import bgimage from '../../images/abstract.jpg';
 import batsman from '../../images/batsman3.png';
 
 const Header = () => {
     return (
-        <div className="headerImage">
+        <div className="headerImage" style={{  
+            backgroundImage: "url(" + bgimage + ")",
+            backgroundPosition: 'center',
+            backgroundSize: 'cover',
+            backgroundRepeat: 'no-repeat'
+          }}>
             <div className="logo">
                 <ul>
                     <li><a href="#" className="active">Teams</a></li>
@@ -28,10 +33,12 @@ const Header = () => {
                     <li><a href="#"><FontAwesomeIcon icon={faPinterestP} /></a></li>
                 </ul>
             </div>
-            <img src={bgimage} alt="" className="img-fluid"/>
-            <div className="headerContent">
-                <img src={batsman} alt=""/>
-                <h2><span>Developed By AR Jishat </span><br/><span> Bangladesh</span><br/> Premiure <br/>League</h2>
+            {/* <img src={bgimage} alt="" className="img-fluid"/> */}
+            <div className="headerMainContent">
+                <div className="headerContent">
+                    <img src={batsman} alt=""/>
+                    <h2><span>Developed By AR Jishat </span><br/><span> Bangladesh</span><br/> Premiure <br/>League</h2>
+                </div>
             </div>
             
         </div>
