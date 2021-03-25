@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # league-team-selector
 This is a Legue cricket team selector for make your team with cost. You can calculate your cost by selecting player.
 >>>>>>> 90f18e2347fb5d756e24b134796c3fe8558136d3
+# simple-react-jishat
