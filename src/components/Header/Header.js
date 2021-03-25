@@ -34,11 +34,16 @@ const Header = () => {
                 </ul>
             </div>
             {/* <img src={bgimage} alt="" className="img-fluid"/> */}
-            <div className="headerMainContent">
-                <div className="headerContent">
-                    <img src={batsman} alt=""/>
-                    <h2><span>Developed By AR Jishat </span><br/><span> Bangladesh</span><br/> Premiure <br/>League</h2>
+            <div className="headerMainContent container">
+                <div className="row">
+                    <div className="col-5 offset-md-2">
+                        <div className="headerContent">
+                            <img src={batsman} alt=""/>
+                            <h2><span>Developed By AR Jishat </span><br/><span> Bangladesh</span><br/> Premiure <br/>League</h2>
+                        </div>
+                    </div>
                 </div>
+                
             </div>
             
         </div>
