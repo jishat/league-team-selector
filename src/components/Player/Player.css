@@ -1,0 +1,49 @@
+.playerImg{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 100px;
+    border: 3px solid #ffc107;
+    padding: 4px;
+}
+.flag{
+    width: 25px;
+}
+.playerDetails{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: start;
+}
+.playerDetails li{
+    font-size: 14px;
+    border-top: 1px solid #efefef;
+    padding: 8px 0
+}
+.playerDetails li:last-child{
+    border-bottom: 1px solid #efefef;
+}
+.playerDetails li span{
+    font-weight: 600;
+    color: #ffc107;
+}
+.salary{
+    padding: 16px 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+.selectBtn{
+    background-color: #ffc107;
+    padding: 7px 71px;
+    border-radius: 100px;
+    font-weight: 600;
+}
+
+element.style {
+    background-color: rgb(241, 241, 241);
+}
+.btn:focus, .btn.focus {
+    outline: 0;
+    box-shadow: none;
+}
