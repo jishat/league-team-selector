@@ -43,7 +43,13 @@ const Header = () => {
                         </div>
                     </div>
                 </div>
+<<<<<<< HEAD
             </div>
+=======
+                
+            </div>
+            
+>>>>>>> 65626b70a881f3da34c12656d1c3372796ad01a5
         </div>
     );
 };
