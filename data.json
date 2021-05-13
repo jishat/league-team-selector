@@ -1,0 +1,152 @@
+[
+	{
+		"id": 1,
+		"name": "Mohammad Mushfiqur Rahim",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "none",
+		"img": "https://www.cricapi.com/playerpic/56029.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"country": "Bangladesh",
+		"salary": 90000
+	},
+	{
+		"id": 2,
+		"name": "Sachin Ramesh Tendulkar",
+		"img": "https://www.cricapi.com/playerpic/35320.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20India.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm offbreak, Legbreak googly",
+		"country": "India",
+		"salary": 300000
+	},
+	{
+		"id": 3,
+		"name": "Shakib Al Hasan",
+		"img": "https://www.cricapi.com/playerpic/56143.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"batting_style": "Left-hand bat",
+		"bowling_style": "Slow left-arm orthodox",
+		"country": "Bangladesh",
+		"salary": 180000
+	},
+	{
+		"id": 4,
+		"name": "Mashrafe Bin Mortaza",
+		"img": "https://www.cricapi.com/playerpic/56007.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm fast-medium",
+		"country": "Bangladesh",
+		"salary": 280000
+	},
+	{
+		"id": 5,
+		"name": "Chris Gayle",
+		"img": "https://www.cricapi.com/playerpic/51880.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20West%20Indies.png",
+		"batting_style": "Left-hand bat",
+		"bowling_style": "Right-arm offbreak",
+		"country": "West Indies",
+		"salary": 430000
+	},
+	{
+		"id": 6,
+		"name": "Ricky Thomas Ponting",
+		"img": "https://www.cricapi.com/playerpic/7133.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Australia.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm medium",
+		"country": "Australia",
+		"salary": 580000
+	},
+	{
+		"id": 7,
+		"name": "Brett Lee",
+		"img": "https://www.cricapi.com/playerpic/6278.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Australia.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm fast",
+		"country": "Australia",
+		"salary": 470000
+	},
+	{
+		"id": 8,
+		"name": "Virat Kohli",
+		"img": "https://www.cricapi.com/playerpic/253802.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20India.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm medium",
+		"country": "India",
+		"salary": 330000
+	},
+	{
+		"id": 9,
+		"name": "Tamim Iqbal Khan",
+		"img": "https://www.cricapi.com/playerpic/56194.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"batting_style": "Left-hand bat",
+		"bowling_style": "none",
+		"country": "Bangladesh",
+		"salary": 470000
+	},
+	{
+		"id": 10,
+		"name": "Benjamin Andrew Stokes",
+		"img": "https://www.cricapi.com/playerpic/311158.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20England.png",
+		"batting_style": "Left-hand bat",
+		"bowling_style": "Right-arm fast-medium",
+		"country": "England",
+		"salary": 550000
+	},
+	{
+		"id": 11,
+		"name": "Mohammad Mahmudullah",
+		"img": "https://www.cricapi.com/playerpic/56025.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm offbreak",
+		"country": "Bangladesh",
+		"salary": 140000
+	},
+	{
+		"id": 12,
+		"name": "Mustafizur Rahman",
+		"img": "https://www.cricapi.com/playerpic/330902.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"batting_style": "Left-hand bat",
+		"bowling_style": "Left-arm fast-medium",
+		"country": "Bangladesh",
+		"salary": 390000
+	},
+	{
+		"id": 13,
+		"name": "Soumya Sarkar",
+		"img": "https://www.cricapi.com/playerpic/436677.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20Bangladesh.png",
+		"batting_style": "Left-hand bat",
+		"bowling_style": "Right-arm medium-fast",
+		"country": "Bangladesh",
+		"salary": 310000
+	},
+	{
+		"id": 14,
+		"name": "Trent Alexander Boult",
+		"img": "https://www.cricapi.com/playerpic/277912.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20New%20Zealand.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Left-arm fast-medium",
+		"country": "New Zealand",
+		"salary": 730000
+	},
+	{
+		"id": 15,
+		"name": "Mahendra Singh Dhoni",
+		"img": "https://www.cricapi.com/playerpic/28081.jpg",
+		"flag" : "http://cdx.cricapi.com/country/Flag%20Of%20India.png",
+		"batting_style": "Right-hand bat",
+		"bowling_style": "Right-arm medium",
+		"country": "India",
+		"salary": 560000
+	}
+]

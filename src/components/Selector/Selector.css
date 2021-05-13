@@ -1,0 +1,51 @@
+.selector{
+    background: #f5f4fd
+}
+.cartSection{
+    background-color: #4c4c4c;
+    border-radius: 0.25rem;
+    padding: 20px;
+    text-align: center;
+}
+.cartSection h2{
+    color: #fff;
+    font-size: 18px;
+    border-bottom: 1px solid #696969;
+    padding-bottom: 15px;
+}
+.cartSection p{
+    color: #fff;
+}
+.cartSection p span{
+    color: #ffc107;;
+    font-weight: 600;
+}
+.cartSection h3{
+    background-color: #ffc107;
+    font-size: 18px;
+    padding: 7px 0px;
+    border-radius: 5px;
+}
+.selectedAllPlayers{
+    text-align: start;
+}
+.selectedAllPlayers span{
+    background-color: #5f5f5f;
+    display: block;
+    padding: 5px 6px;
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+.selectedAllPlayers span:first-child{
+    margin-top: 25px;
+}
+.selectedAllPlayers span img{
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    border-radius: 100px;
+    border: 1px solid #9c9c9c;
+    padding: 3px;
+    margin-right: 7px;
+}
